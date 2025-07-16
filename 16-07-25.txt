@@ -1,0 +1,27 @@
+Dev -> Development (Design, Code, Build, Test)  Ops-> OPerations (Relese, Deploy, Moniiter, Operate)
+
+Collab between Dev and Ops teams
+Automate Delivery Process
+Improvers Quality and Speed
+CI - Continues Integration CD - Continues Delivery
+
+CI -- > 
+	Automatically build and test when there is a change
+	Ensures bugfree
+	Ensures higrt code quality
+	Packing the application (war/jar/dockerimage)
+
+CD -->
+	Automates deploy for production 
+
+Life Cycle :
+	
+	Code --> Build --> Test --> Deployment
+
+	Code Storage : GitHub, Gitlab, Bitbucket --> Git
+	Build : War, Jar, Docker IMages
+	Test : Pytest, Junit, SonarQube
+	Deploy : Apache/Tomcat, Docker, Kubernetes
+
+Git :
+	It is a version control system
